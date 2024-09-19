@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/40845824/121069742-3accdb00-c7a4-11eb-87d0-3dc47e433762.png)
 
-# ME DIZ SE FUNCIONOOOOOOOOOOOOOOOOOOOOUU
 # 🚀 Front end challenge
 
 Bem-vindo(a). Este é o desafio Front end!
@@ -59,4 +58,4 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 
 _O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas. Já possuimos uma funcionalidade similar na nossa plataforma._
 
-Made with 💜 at Rocketseat
+Made with 💜
